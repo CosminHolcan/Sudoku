@@ -1,2 +1,3 @@
 # Sudoku
-Sudoku game written in C++ and Qt
+Sudoku game with 3 difficulty levels and a computer solver implemented using backtracking algorithm
+Written in C++ and Qt
